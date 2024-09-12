@@ -2,8 +2,8 @@
 <p class="has-x-large-font-size"><strong>Türkiye'nin En İyi IPTV Firması</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":3617,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://armyiptv.xyz/wp-content/uploads/2024/09/Black-And-Gold-Simple-Depop-Profile-Picture-1-1-1024x1024.png" alt="" class="wp-image-3617"/></figure>
+<!-- wp:image {"lightbox":{"enabled":false},"id":3617,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://armyiptv.com/"><img src="https://armyiptv.xyz/wp-content/uploads/2024/09/Black-And-Gold-Simple-Depop-Profile-Picture-1-1-1024x1024.png" alt="" class="wp-image-3617"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
